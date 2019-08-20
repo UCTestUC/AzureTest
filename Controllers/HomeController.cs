@@ -15,7 +15,7 @@ namespace DotNetCoreSqlDb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page test test.";
 
             return View();
         }
